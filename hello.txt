@@ -1,22 +1,4 @@
 :print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
-:print('hello gddl you are my king!!!')
 我邓某人抽草神霄宫魈申鹤十连三金50抽满命！！！
 用我20斤肥肉换！！！
 
